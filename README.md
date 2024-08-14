@@ -33,17 +33,17 @@ To replicate this environment, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/your-repo-name.git](https://github.com/elmasri-ali/Predictive-Modeling-for-Hotel-Booking-Cancelations-.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd your-repo-name
+   Predictive-Modeling-for-Hotel-Booking-Cancelations-
    ```
 
 3. Install the required packages using the `requirements.txt` file:
    ```
-   pip install -r requirements.txt
+   pip install -r requirements.txt 
    ```
 
 4. If you're using conda, you can create an environment from the exported environment file (assuming you have exported it):
