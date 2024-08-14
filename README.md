@@ -9,7 +9,8 @@ This repository contains the code and resources used for developing predictive m
 - **Notebooks/**: Contains Jupyter notebooks used for data analysis, model development, and visualization. Each notebook is explained in detail below.
 - **requirements.txt**: Lists all the dependencies and their versions used in this project. Install them using the following command:
   ```
-  pip install -r requirements.txt
+  conda install --yes --file requirements.txt
+
   ```
 
 ## Dataset
